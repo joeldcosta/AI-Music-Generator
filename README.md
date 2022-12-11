@@ -46,7 +46,7 @@
 <h2>
   
 ```diff
-- 🐍 AI Music Generator from command prompts.
+- 🐍 AI Music Generator from word prompts.
 + 🐍 AI Music Generator from any Image.
 ! 🐍 AI Music Fresh | Free | No Copyright issues.
 # 🐍 AI Music is the Future.
