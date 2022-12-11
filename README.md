@@ -16,7 +16,7 @@
 </h3>
 
 <h3>
-```diff
+
 - #::Steps to follow::
 
 - ## For Text to Music
@@ -35,7 +35,7 @@
     * You can add your own path.
     * Time duration max is 225 seconds.
     * Loop if you want the music to loop.
-```    
+  
 </h3>
   
 <br>
