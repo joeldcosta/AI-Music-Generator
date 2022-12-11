@@ -14,6 +14,8 @@
 ```
   
 </h3>
+
+<h3>
 ```diff
 - #::Steps to follow::
 
@@ -34,7 +36,8 @@
     * Time duration max is 225 seconds.
     * Loop if you want the music to loop.
 ```    
-
+</h3>
+  
 <br>
 <h3>Visit:- https://pysnakeblog.blogspot.com/ </h3><br>
 <b><i>Check out my Youtube Videos https://www.youtube.com/python4fun </i></b> <br>
