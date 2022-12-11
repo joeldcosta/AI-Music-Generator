@@ -25,7 +25,7 @@
 - Generate Music using Word Prompts
 
 ## For Image to Music
-- Upload your own image. 
+- Upload your own image LOCALLY. 
     * It can take any format of Images no issues
 - From Your computer | OR | from URL 
     * Note URL should have extension else you will cause an Error
