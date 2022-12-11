@@ -15,14 +15,14 @@
   
 </h3>
 ```diff
-#::Steps to follow::
+- #::Steps to follow::
 
-## For Text to Music
+- ## For Text to Music
 - Run Setup Environment
 - Run Setup img2text
 - Generate Music using Word Prompts
 
-## For Image to Music
+- ## For Image to Music
 - Upload your own image. 
     * It can take any format of Images no issues
 - From Your computer | OR | from URL 
