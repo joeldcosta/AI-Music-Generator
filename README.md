@@ -14,7 +14,26 @@
 ```
   
 </h3>
+```diff
+#::Steps to follow::
 
+## For Text to Music
+- Run Setup Environment
+- Run Setup img2text
+- Generate Music using Word Prompts
+
+## For Image to Music
+- Upload your own image. 
+    * It can take any format of Images no issues
+- From Your computer | OR | from URL 
+    * Note URL should have extension else you will cause an Error
+    * It can take any format of Images no issues
+- Run image to text
+    * By default the path will be in "BLIP / pic" folder
+    * You can add your own path.
+    * Time duration max is 225 seconds.
+    * Loop if you want the music to loop.
+```    
 
 <br>
 <h3>Visit:- https://pysnakeblog.blogspot.com/ </h3><br>
